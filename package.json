@@ -9,7 +9,9 @@
   "author": "salino3",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.3",
     "parcel": "^2.10.3",
-    "rimraf": "^4.4.1"
+    "rimraf": "^4.4.1",
+    "sass": "^1.81.0"
   }
 }
